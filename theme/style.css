@@ -33,3 +33,12 @@ text-align: center;
   width: 753px;
 
 }
+.index{
+  position: fixed;
+  top: 0;
+}
+.homeButton{
+  color: blue;
+  background: red;
+
+}
